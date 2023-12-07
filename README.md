@@ -31,8 +31,10 @@ The Tribute Website for APJ Abdul Kalam includes the following components:
 
 ## Acknowledgement
 
-I am grateful to Oasis Infobyte for providing me with the opportunity to create this Tribute Website, allowing me to pay homage to the remarkable life and contributions of Dr. APJ Abdul Kalam during the internship.
+I am grateful that I got the opportunity to create this Tribute Website, allowing me to pay homage to the remarkable life and contributions of Dr. APJ Abdul Kalam.
 
----
+## Contributing
 
-Customize this README with specific details about the sections, content, or additional features present in your Tribute Website. Adjust the clone URL, file names, and internship details to accurately represent your project and internship experience.
+Contributions are welcome! If you'd like to contribute to this project, feel free to open issues for suggestions or submit pull requests with proposed enhancements.
+
+
